@@ -17,7 +17,7 @@
     "mongoose": "^8.8.4",
     "multer": "^1.4.5-lts.1",
     "node-module": "^1.0.1",
-    "nodemon": "^3.1.9",
+    "nodemon": "^3.1.10",
     "seeder": "^0.2.4"
   }
 }
